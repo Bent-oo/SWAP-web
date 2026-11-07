@@ -87,7 +87,7 @@ const SITE = {
     columns: [
       { title: "Về SWAP",   lines: ["since 2026", ""] },
       { title: "Hỗ trợ",    lines: ["(Chính sách đổi trả)", "(Hướng dẫn mua hàng)"] },
-      { title: "Liên hệ",   lines: ["Địa chỉ: HCMUS - Nguyễn Văn Cừ", "SĐT: 0326893317", "Email: iamttien.248@gmail.com"] }
+      { title: "Liên hệ",   lines: ["Địa chỉ: HCMUS - Nguyễn Văn Cừ Q.5", "SĐT: 0326893317", "Email: iamttien.248@gmail.com"] }
     ],
     copyright: "© SWAP – Đồ án môn học"
   }
